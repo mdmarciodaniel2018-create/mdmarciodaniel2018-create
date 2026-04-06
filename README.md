@@ -1,4 +1,4 @@
-# Márcio | Analista de Dados em Formação 📊
+# Márcio | Analista de Dados 📊
 
 Químico Industrial (UFMA) | Análise de Dados.
 Combino background técnico em controles de qualidade (Lean, Six Sigma, CPE)
