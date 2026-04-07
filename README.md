@@ -1,14 +1,15 @@
-# Márcio | Analista de Dados 📊
+# Márcio Daniel | Analista de Dados 📊
 
 Químico Industrial (UFMA) com foco em Análise de Dados.
 Atuei em multinacionais como Suzano e P&G, utilizando ferramentas como SQL, Databricks, Excel, Power BI e PowerApps
 para transformar dados em decisões estratégicas.
 
 
-## 💼 Foco Atual
-- Dashboards analíticos com Power BI e DAX
-- Extração e tratamento de dados com SQL e BigQuerys como Azure Databricks, Google Cloud Platform e Amazon Web Services
-- Análise de Negócios: CRM, Comercial, Marketing, Financeiro
+- ## 💼 Foco Atual
+
+- Dashboards analíticos com **Power BI e DAX**
+- Extração e tratamento de dados com **SQL** e plataformas cloud como **Azure Databricks, Google Cloud Platform e Amazon Web Services**
+- Geração de insights para áreas de **Operações Industriais, Comercial & CRM, Marketing e Financeiro**
 
 ## 🛠️ Tecnologias
 
