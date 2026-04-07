@@ -1,14 +1,14 @@
 # Márcio | Analista de Dados 📊
 
-Químico Industrial (UFMA) | Análise de Dados.
-Combino background técnico em controles de qualidade (Lean, Six Sigma, CPE)
-com habilidades em SQL, Power BI, Excel, Python e PowerApps para transformar dados em
-decisões estratégicas.
+Químico Industrial (UFMA) com foco em Análise de Dados.
+Atuei em multinacionais como Suzano e P&G, utilizando ferramentas como SQL, Databricks, Excel, Power BI e PowerApps
+para transformar dados em decisões estratégicas.
+
 
 ## 💼 Foco Atual
 - Dashboards analíticos com Power BI e DAX
-- Extração e tratamento de dados com SQL e BigQuery
-- Projetos voltados para CRM, Marketing e Análise Comercial
+- Extração e tratamento de dados com SQL e BigQuerys como Azure Databricks, Google Cloud Platform e Amazon Web Services
+- Análise de Negócios: CRM, Comercial, Marketing, Financeiro
 
 ## 🛠️ Tecnologias
 
@@ -23,7 +23,6 @@ decisões estratégicas.
 | Projeto | Descrição | Stack |
 |---|---|---|
 | 🛢️ Análise ANP | Preços de combustíveis no Brasil | SQL, BigQuery, Power BI |
-| 🔜 Em breve... | Novos projetos chegando | ... |
 
 ## 📫 Contato
 [https://www.linkedin.com/in/márcio-daniel-206709200/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
